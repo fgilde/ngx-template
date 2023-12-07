@@ -6,7 +6,7 @@
     "start": "ng serve",
     "build": "ng build",
     "build-lib": "ng build ngx-template",
-    "publish-npm": "npm run build-lib && npm publish dist/ngx-template",
+    "publish-npm": "npm run build-lib && npm publish dist/ngx-template --access public",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
