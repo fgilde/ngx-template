@@ -164,5 +164,8 @@
         }
       }
     }},
-  "defaultProject": "ngx-template"
+  "defaultProject": "ngx-template",
+  "cli": {
+    "analytics": false
+  }
 }

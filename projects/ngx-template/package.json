@@ -1,15 +1,15 @@
 {
-  "name": "ngx-template",
+  "name": "@fgilde/ngx-template",
   "version": "1.1.1",
   "description": "A strengthened angular template",
   "keywords": ["ngx", "template"],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mokeyish/ngx-template.git"
+    "url": "git+https://github.com/fgilde/ngx-template.git"
   },
   "peerDependencies": {
-    "@angular/common": "^9.0.3",
-    "@angular/core": "^9.0.3",
-    "tslib": "^1.10.0"
+    "@angular/common": "^17.0.6",
+    "@angular/core": "^17.0.6",
+    "tslib": "^2.6.2"
   }
 }
